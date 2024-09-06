@@ -11,7 +11,7 @@ To write a python program to perform sliding window protocol
 ## PROGRAM:
 ![Screenshot 2024-09-06 134847](https://github.com/user-attachments/assets/04420f57-7ba7-43e9-b741-569980ecae06)
 
-## OUPUT:
+## OUTPUT:
 ![image](https://github.com/user-attachments/assets/8a614405-4305-4a6b-b61c-66b72de1c6f5)
 
 ## RESULT
